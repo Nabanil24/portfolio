@@ -1,3 +1,17 @@
-# portfolio
+# 📁 Data Engineering & Analytics Portfolio
 
-Hello, I am Nabanil Mitra, a recent masters graduate from Jawaharlal Nehru University, searching for a job in the data analytics/engineer field. This is my project portfolio.
+Welcome to my Data Engineering & Analytics Portfolio, a curated collection of projects showcasing my skills in data warehousing, ETL pipeline development, data modeling, and analytics.
+Each project is designed to reflect real-world industry practices—ranging from building modern data architectures to uncovering actionable insights through SQL and BI techniques.
+
+This repository demonstrates my ability to:
+
+Architect scalable data pipelines and warehouse solutions
+
+Clean, transform, and integrate data from multiple sources
+
+Design fact–dimension models optimized for analytics
+
+Deliver meaningful insights using SQL, dashboards, and reports
+
+Feel free to explore the projects, dive into the code, and check out the documentation included with each build.
+I'm actively expanding this portfolio as I continue learning and building.
